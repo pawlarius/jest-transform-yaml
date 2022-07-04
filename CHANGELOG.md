@@ -1,3 +1,15 @@
+# v1.0.1 (Mon Jul 04 2022)
+
+#### ⚠️ Pushed to `main`
+
+- change package name ([@pawlarius](https://github.com/pawlarius))
+
+#### Authors: 1
+
+- [@pawlarius](https://github.com/pawlarius)
+
+---
+
 # v1.0.0 (Wed Nov 24 2021)
 
 #### 💥 Breaking Change
